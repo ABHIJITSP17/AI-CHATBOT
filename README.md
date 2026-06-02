@@ -32,8 +32,7 @@ chatbot/
 - 🔐 Secure API key management
 - 🎨 Clean and simple chat UI
 
-## 📸 Screenshot
-> Add a screenshot of your chatbot here
+
 
 ## 🔑 Get Free API Key
 1. Go to 👉 https://console.groq.com
